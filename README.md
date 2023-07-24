@@ -29,7 +29,7 @@ PostgreSQL
 Debian, Windows
 
 ###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, PyTorch, Keras, ResNet, 
+Python, Pandas, Numpy, Matplotlib, SciPy, Nltk, lightgbm, xgboost, catboost, Scikit-learn, TensorFlow, PyTorch, Keras, ResNet, 
 <br><br>
 
 
