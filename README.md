@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I am currently looking for a job
+***************************************************
 ### My name is Kovalev Mikhail :raising_hand: 
 
 A highly skilled and motivated data scientist with a proven track record of using analytics to drive business growth and solve complex problems. Experienced in statistical analysis, machine learning, neural networks and data visualization, I am looking for an interesting data scientist position to contribute to the success of a dynamic organization.
